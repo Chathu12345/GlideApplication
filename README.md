@@ -1,6 +1,6 @@
 # GlideApplication
 
-Final output of the SearchBar Application looks like below,
+Final output of the GlideApplication looks like below,
 
 <br>
 
